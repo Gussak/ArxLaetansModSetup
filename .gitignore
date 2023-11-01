@@ -1,0 +1,23 @@
+*
+
+# core
+!fixSymlinks.sh
+!gitgui.sh
+!README.md
+!.gitignore
+
+# helper folder
+!ArxLaetansMod
+!ArxLaetansMod/help.txt
+!ArxLaetansMod/HealingPotion
+!ArxLaetansMod/MagicGlassBottleWithPowder
+!ArxLaetansMod/MagicGlassEmptyBottle
+!ArxLaetansMod/MagicGlassWaterBottle
+!ArxLaetansMod/ManaPotion
+!ArxLaetansMod/WineBottle
+
+# mod files
+!ArxLaetansMod.Beverages.Setup.7z
+!ArxLaetansMod.RestorationPotions.Setup.7z
+!ArxLaetansMod.MagicPotions.Setup.7z
+!ArxLaetansMod.MagicGlassBottles.Setup.7z

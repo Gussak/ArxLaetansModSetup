@@ -1,0 +1,2 @@
+Place a relative symlink to this folder inside every .Setup folder.
+This will help symlinks there to reach the real files during setup/config/release.
