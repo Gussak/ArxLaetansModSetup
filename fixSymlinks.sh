@@ -15,6 +15,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+# find -type l -exec readlink '{}' \; |egrep "$USER|home|^/" -i #check if symlinks are relative
+
 function FUNCfixLnk() { 
   local lstrFl="$1"; 
   echo

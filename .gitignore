@@ -6,9 +6,10 @@
 !README.md
 !.gitignore
 
-# helper folder
+# helper folders (symlinks)
 !ArxLaetansMod
 !ArxLaetansMod/help.txt
+!ArxLaetansMod/AncientDevices
 !ArxLaetansMod/HealingPotion
 !ArxLaetansMod/MagicGlassBottleWithPowder
 !ArxLaetansMod/MagicGlassEmptyBottle
@@ -16,7 +17,10 @@
 !ArxLaetansMod/ManaPotion
 !ArxLaetansMod/WineBottle
 
-# mod files
+# AncientDevices
+!Mod.AncientDevices.Setup.7z
+
+# mod files autogen
 !ArxLaetansMod.Beverages.Setup.7z
 !ArxLaetansMod.RestorationPotions.Setup.7z
 !ArxLaetansMod.MagicPotions.Setup.7z
