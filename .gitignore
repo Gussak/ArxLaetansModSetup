@@ -7,15 +7,15 @@
 !.gitignore
 
 # helper folders (symlinks)
-!ArxLaetansMod
-!ArxLaetansMod/help.txt
-!ArxLaetansMod/AncientDevices
-!ArxLaetansMod/HealingPotion
-!ArxLaetansMod/MagicGlassBottleWithPowder
-!ArxLaetansMod/MagicGlassEmptyBottle
-!ArxLaetansMod/MagicGlassWaterBottle
-!ArxLaetansMod/ManaPotion
-!ArxLaetansMod/WineBottle
+!ArxLaetansMod.RelativeSymlinkHelper
+!ArxLaetansMod.RelativeSymlinkHelper/help.txt
+!ArxLaetansMod.RelativeSymlinkHelper/AncientDevices
+!ArxLaetansMod.RelativeSymlinkHelper/HealingPotion
+!ArxLaetansMod.RelativeSymlinkHelper/MagicGlassBottleWithPowder
+!ArxLaetansMod.RelativeSymlinkHelper/MagicGlassEmptyBottle
+!ArxLaetansMod.RelativeSymlinkHelper/MagicGlassWaterBottle
+!ArxLaetansMod.RelativeSymlinkHelper/ManaPotion
+!ArxLaetansMod.RelativeSymlinkHelper/WineBottle
 
 # AncientDevices
 !Mod.AncientDevices.Setup.7z

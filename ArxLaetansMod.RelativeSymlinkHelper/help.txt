@@ -1,0 +1,3 @@
+Place a relative symlink to this folder "ArxLaetansMod.RelativeSymlinkHelper" inside every .Setup folder and rename it to "ArxLaetansMod".
+When creating the relative symlink at .Setup to .ftl and textures etc, use the "ArxLaetansMod" symlink folder.
+This will help symlinks there to reach the real files during setup/config/release.
